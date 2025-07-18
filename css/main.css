@@ -672,7 +672,7 @@ li.item h3{
 }
 
 span.border {
-    border-bottom: 1px solid #CD5353;
+/*     border-bottom: 1px solid #CD5353; */
     height: 1px;
     left: 62px;
     position: absolute;
